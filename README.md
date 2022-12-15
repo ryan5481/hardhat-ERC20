@@ -11,7 +11,7 @@ You might need to install it with npm.
 
 ## Quickstart
 ```
-git clone https://github.com/PatrickAlphaC/hardhat-erc20-fcc
+git clone https://github.com/ryan5481/hardhat-ERC20
 cd hardhat-erc20-fcc
 yarn
 ```
@@ -35,7 +35,7 @@ You'll want to set your GOERLI_RPC_URL and PRIVATE_KEY as environment variables.
 The private key of your account (like from metamask). NOTE: FOR DEVELOPMENT, PLEASE USE A KEY THAT DOESN'T HAVE ANY REAL FUNDS ASSOCIATED WITH IT.
 You can learn how to export it here.
 ### GOERLI_RPC_URL: 
-This is url of the goerli testnet node you're working with. You can get setup with one for free from Alchemy
+This is url of the goerli testnet node you're working with. You can get setup with one for free from [Alchemy](https://alchemy.com/?r=DM1MDcxOTE0MDA0N)
 ### Get testnet ETH
 Head over to faucets.chain.link and get some tesnet ETH. You should see the ETH show up in your metamask.
 
